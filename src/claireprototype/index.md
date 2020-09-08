@@ -4,7 +4,7 @@
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
-            <span class="nsw-form-legend-text">What type of game are you running?</span>
+            <span class="nsw-form-legend-text">HI Claire</span>
             </legend>
             <div class="nsw-form-radio">
                <input class="nsw-form-radio__input" type="radio" name="{gametype}" id="{gametype1}" value="True">
