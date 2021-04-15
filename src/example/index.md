@@ -1,5 +1,7 @@
-<h1>Hi everyone</h1>
+<h1>Hello everyone</h1>
 
+
+<h2>This is a smaller heading</h2>
 
 <p>Below is a mystery button, lets see where it goes?</p>
 
