@@ -5,5 +5,7 @@
 
 Here is a [mysterious link](https://sassica.github.io/Prototyping-experiments/final-destination/).
 
+Here is a [fabulous new link](https://www.bing.com/images/search?q=fabulous+destinations&qpvt=faboulous+destinations&form=IGRE&first=1&tsc=ImageBasicHover).
+
 
 
