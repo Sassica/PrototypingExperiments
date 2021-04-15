@@ -3,7 +3,7 @@
 <p>But here we find a link leading somewhere else, should we see where this goes?</p>
 
 
-If you'd like to see more patterns and design elements [check out the NSW Digital Service Toolkit](https://www.digital.nsw.gov.au/digital-service-toolkit).
+Here is a [mysterious link](https://sassica.github.io/Prototyping-experiments/final-destination/).
 
 
 
