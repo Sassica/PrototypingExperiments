@@ -4,6 +4,9 @@
 <p>Below is a button, lets see where it goes?</p>
 
 
+<a href="{{ '/destination' | url }}" class="nsw-button nsw-button--primary">Press me</a>
+
+
 
 
 <nav class="nsw-sidenav" aria-labelledby="sksm726ns side navigation">
