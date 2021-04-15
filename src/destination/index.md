@@ -5,5 +5,5 @@
 
 If you'd like to see more patterns and design elements [check out the NSW Digital Service Toolkit](https://www.digital.nsw.gov.au/digital-service-toolkit).
 
-<link rel="check out the NSW Digital Service Toolkit" href="https://www.digital.nsw.gov.au/digital-service-toolkit" />
+
 
